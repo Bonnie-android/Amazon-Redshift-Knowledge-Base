@@ -1,0 +1,1 @@
+"#Amazon-Redshift-Knowledge-Base"
